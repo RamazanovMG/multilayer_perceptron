@@ -21,4 +21,4 @@ To see the accuracy of the model with different parameters, check report.md.
 
 [training.webm](https://github.com/RamazanovMG/multilayer_perceptron/assets/48622603/f34167fe-1585-447c-902a-dedc8b02d6af)
 
-> training in real time (success rate displayed in bottom right corner)
+> training in real time (success rate displayed in the bottom right corner)
