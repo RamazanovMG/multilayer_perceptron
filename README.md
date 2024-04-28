@@ -3,6 +3,7 @@ This is an implementation of a multi-layer perceptron, with adjustable number of
 For installation, please execute the command **make install**.
 
 Trained model demo
+
 https://github.com/RamazanovMG/multilayer_perceptron/assets/48622603/c4f80833-100a-41e3-a744-5ee06a2a1f6b
 
 Training in real time
