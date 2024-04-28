@@ -1,4 +1,4 @@
-- This is an implementation of a multi-layer perceptron, with adjustable number of layers, size of layers, number of epochs, and number of folds for cross-validation training. Predicted letter is displayed in the box to the upper right corner.
+*This is an implementation of a multi-layer perceptron, with adjustable number of layers, size of layers, number of epochs, and number of folds for cross-validation training. Predicted letter is displayed in the box to the upper right corner.*
 
 - For installation, please execute the command **make install**.
 
