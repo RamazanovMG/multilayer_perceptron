@@ -3,7 +3,6 @@ This software is an implementation of a multi-layer perceptron, featuring an arc
 For installation, please execute the command **make install**.
 
 Trained model demo
-[Screencast from 28.04.2024 22:25:00.webm](https://github.com/RamazanovMG/multilayer_perceptron/assets/48622603/fdfe7786-ac16-4cc6-b353-07ca55c9d6f2)
-
+[demo.webm](https://github.com/RamazanovMG/multilayer_perceptron/assets/48622603/36952ed1-a7ac-42f9-a2f6-c02cf13954a3)
 
 Training in real time
