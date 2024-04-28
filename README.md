@@ -1,8 +1,9 @@
-#### Multilayer perceptron is an implementation of a simple neural network using sigmoid activation function, with adjustable number of layers, size of layers, number of epochs, and number of folds for cross-validation training. Predicted letter is displayed in the box to the upper right corner.
+#### Multilayer perceptron is an implementation of a simple neural network using sigmoid activation function. Predicted letter is displayed in the box to the upper right corner.
 
 Functionality:
 - load/save image for prediction
 - train on any given dataset using train-test split or cross-validation
+- adjustable number of layers, size of layers, number of epochs, and number of folds for cross-validation training
 - load/save model with calculated weights
 - antialiasing
 
