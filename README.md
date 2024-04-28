@@ -1,4 +1,4 @@
-This software is an implementation of a multi-layer perceptron, featuring an architecture to adjust the number of layers, the size of each layer, the number of epochs, and the number of folds for cross-validation training. Predicted letter is displayed in the box to the upper right corner.
+This is an implementation of a multi-layer perceptron, with adjustable number of layers, size of layera, number of epochs, and number of folds for cross-validation training. Predicted letter is displayed in the box to the upper right corner.
 
 For installation, please execute the command **make install**.
 
