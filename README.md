@@ -1,4 +1,5 @@
-### Multilayer perceptron is an implementation of a simple neural network using sigmoid activation function, with adjustable number of layers, size of layers, number of epochs, and number of folds for cross-validation training. Predicted letter is displayed in the box to the upper right corner.
+#### Multilayer perceptron is an implementation of a simple neural network using sigmoid activation function, with adjustable number of layers, size of layers, number of epochs, and number of folds for cross-validation training. Predicted letter is displayed in the box to the upper right corner.
+
 
 For installation, please execute the command **make install**.
 Alternatively, open src/view/CMakeLists.txt file with Qt Creator, ensuring it is configured with version 6.5.1.
